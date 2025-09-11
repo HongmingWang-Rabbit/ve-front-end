@@ -9,7 +9,6 @@
     "start": "next start"
   },
   "dependencies": {
-    "@builder.io/dev-tools": "^1.0.10",
     "@builder.io/react": "^3.2.6",
     "@builder.io/sdk": "^2.2.2",
     "@google/model-viewer": "^3.4.0",
