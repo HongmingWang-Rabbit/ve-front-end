@@ -114,7 +114,7 @@ export default function Header() {
                 setOpenNav(!openNav);
               }}
             >
-              Choke1r
+              Choker
             </div>
           </Link>
 
